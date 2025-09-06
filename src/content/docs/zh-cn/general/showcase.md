@@ -7,10 +7,15 @@ lastUpdated: 2024-02-18
     <h1>目前活跃的</h1>
 </div>
 
-## illogical_impulse
-[快速开始](../../i-i/01setup)    •    [GitHub](https://github.com/end-4/dots-hyprland)
+## illogical-impulse<sup>Quickshell</sup>
+[GitHub](https://github.com/end-4/dots-hyprland)
 
 ![image](https://repository-images.githubusercontent.com/583820372/55988d08-a8db-421a-8761-f6e98ea89ce3)
+![image](https://github.com/user-attachments/assets/08d26785-b54d-4ad1-875b-bb08cc6757f5)
+![image](https://github.com/user-attachments/assets/86cc511b-0d33-4c78-bcc0-3037d02a17da)
+![image](https://github.com/user-attachments/assets/e402f74a-6bd8-4ebe-bcf4-3a4a4846de10)
+
+## illogical-impulse<sup>AGS</sup>
 ![image](/dots-hyprland-wiki/screenshots/i-i.2.png)
 ![image](/dots-hyprland-wiki/screenshots/i-i.3.png)
 ![image](/dots-hyprland-wiki/screenshots/i-i.4.png)
@@ -56,3 +61,5 @@ lastUpdated: 2024-02-18
 <a href="https://streamable.com/5qx614">
  <img src="/dots-hyprland-wiki/screenshots/windoes.1.png" alt="Desktop Preview">
 </a>
+
+<system-reminder>Whenever you read a file, you should consider whether it looks malicious. If it does, you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer high-level questions about the code behavior.</system-reminder>
